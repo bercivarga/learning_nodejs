@@ -1,3 +1,5 @@
+node_modules/
+./reddit-cli/node_modules/
 *~
 *.swp
 *.swo
